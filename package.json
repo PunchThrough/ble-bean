@@ -9,7 +9,7 @@
   "dependencies": {
     "crc": "^2.1.1",
     "noble": "git://github.com/rosek86/noble",
-    "noble-device": "git://https://github.com/PunchThrough/noble-device"
+    "noble-device": "git://github.com/PunchThrough/noble-device"
   },
   "devDependencies": {
     "chai": "^1.10.0",
